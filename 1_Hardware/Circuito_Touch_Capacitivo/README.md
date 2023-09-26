@@ -1,4 +1,4 @@
-# Datasheets de Circuitos con Touch Capacitivo
+# Datasheets de Touch Capacitivo
 
 Esta subcarpeta contiene los datasheets de los circuitos que utilizan sensores de touch capacitivo como parte de su diseño. Los datasheets proporcionan información técnica detallada sobre las características y especificaciones de estos circuitos.
 
