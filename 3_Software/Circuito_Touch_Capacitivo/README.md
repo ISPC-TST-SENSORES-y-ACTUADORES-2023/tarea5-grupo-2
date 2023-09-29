@@ -1,19 +1,5 @@
 # Circuito con Touch Capacitivo
 
-En esta subcarpeta, encontrarás simulaciones de circuitos que utilizan sensores de touch capacitivo como parte de su diseño. Estas simulaciones se han desarrollado utilizando software especializado y se utilizan para analizar el comportamiento de los circuitos que incluyen sensores de touch capacitivo.
+En esta subcarpeta, encontrarás el código fuente de las simulaciones de circuitos que utilizan sensores de touch capacitivo como parte de su diseño. Los archivos de código se han desarrollado utilizando software especializado y se utilizan para modelar y analizar el comportamiento de los circuitos con sensores de touch capacitivo.
 
-## Contenido
-
-Dentro de esta subcarpeta, encontrarás:
-
-1. **Simulación 1: Título de la Simulación 1**
-   - [Enlace a la Simulación 1](enlace-a-la-simulacion-1/README.md)
-
-
-
-
-
-## Uso de las Simulaciones
-
-Las simulaciones proporcionan una representación virtual de los circuitos con sensores de touch capacitivo y permiten analizar su comportamiento en diferentes condiciones.
 
