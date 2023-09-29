@@ -1,4 +1,4 @@
-# Software
+# Proyecto
 
 Esta carpeta contiene las simulaciones de circuitos que utilizan software para modelar y analizar el comportamiento de los circuitos electrónicos. 
 
