@@ -1,1 +1,0 @@
-# PDF de componentes principales
